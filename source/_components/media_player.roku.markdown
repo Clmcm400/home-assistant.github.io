@@ -26,3 +26,8 @@ media_player:
 Configuration variables:
 
 - **host** (*Optional*): Use only if you don't want to scan for devices.
+
+Per this thread (Thanks jmricker):
+https://community.home-assistant.io/t/unable-to-initialize-roku-after-upgrade-0-37/10706/6
+
+You will want to name your Roku devices for them to show up at my.roku.com.
